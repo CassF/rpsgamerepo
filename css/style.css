@@ -1,9 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Lustria|Montserrat|Quicksand|Roboto+Condensed');
+
+
 body {
-background: lightcyan;
-}
-.scoreboard {
+background: #C4C7CA;
 
 }
-.move-buttons {
+/* Styling for all fonts *//
+h1 h2 h3 {
+	font-size: 100%;
+	font-family: 'Roboto Condensed', sans-serif;
+	transform: uppercase;
+
+}
+/* Start of styling for the scoreboard */
+.scoreboard {
+	background-color: white;
+	margin:0;
+	padding:0;
+	width: 300%;
+	height: 300%;
+}
+
+/* Styling for all buttons */ 
+.play {
 
 }
